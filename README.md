@@ -1,2 +1,2 @@
 # Proyecto-Gestion-de-BD
-Repositorio de sistema desarrollado en C# y SQL Server
+Repositorio del sistema ppara una microempresa que brinda tutorias desarrollado en C# y SQL Server
