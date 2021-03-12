@@ -739,23 +739,27 @@ insert into clase values('MDD-1','Mineria de datos',9,20)
 
 go
 --Ingreso Tutorias
-exec ingresar_tutoria '2020-12-19','14:00:00',2,'MAT-1',20
-exec ingresar_tutoria '2020-12-21','14:00:00',2,'QUI-1',19
-exec ingresar_tutoria '2020-12-22','8:00:00',2,'QUI-2',18
-exec ingresar_tutoria '2020-12-23','10:00:00',2,'MIC-2',17
-exec ingresar_tutoria '2020-12-23','14:00:00',2,'TER-1',16
-exec ingresar_tutoria '2020-12-24','14:00:00',2,'ELC-2',15
-exec ingresar_tutoria '2020-12-24','8:00:00',2,'POO-1',14
-exec ingresar_tutoria '2020-12-24','10:00:00',2,'CAL-1',13
-exec ingresar_tutoria '2020-12-25','14:00:00',2,'CAL-2',12
-exec ingresar_tutoria '2020-12-28','14:00:00',2,'EST-1',11
-exec ingresar_tutoria '2020-12-26','8:00:00',2,'EST-2',10
-exec ingresar_tutoria '2020-12-28','10:00:00',2,'RED-1',9
-exec ingresar_tutoria '2020-12-29','14:00:00',2,'FIC-1',8
-exec ingresar_tutoria '2020-12-29','14:00:00',2,'ETD-1',7
-exec ingresar_tutoria '2020-12-29','8:00:00',2,'MET-1',6
-exec ingresar_tutoria '2020-12-29','10:00:00',2,'ING-1',5
-exec ingresar_tutoria '2020-12-30','14:00:00',2,'REQ-1',4
-exec ingresar_tutoria '2020-12-30','14:00:00',2,'GEO-2',3
-exec ingresar_tutoria '2020-12-30','8:00:00',2,'MTI-1',2
-exec ingresar_tutoria '2020-12-30','10:00:00',2,'MDD-1',1
+exec ingresar_tutoria '2021-12-19','14:00:00',2,'MAT-1',20
+exec ingresar_tutoria '2021-12-21','14:00:00',2,'QUI-1',19
+exec ingresar_tutoria '2021-12-22','8:00:00',2,'QUI-2',18
+exec ingresar_tutoria '2021-12-23','10:00:00',2,'MIC-2',17
+exec ingresar_tutoria '2021-12-23','14:00:00',2,'TER-1',16
+exec ingresar_tutoria '2021-12-24','14:00:00',2,'ELC-2',15
+exec ingresar_tutoria '2021-12-24','8:00:00',2,'POO-1',14
+exec ingresar_tutoria '2021-12-24','10:00:00',2,'CAL-1',13
+exec ingresar_tutoria '2021-12-25','14:00:00',2,'CAL-2',12
+exec ingresar_tutoria '2021-12-28','14:00:00',2,'EST-1',11
+exec ingresar_tutoria '2021-12-26','8:00:00',2,'EST-2',10
+exec ingresar_tutoria '2021-12-28','10:00:00',2,'RED-1',9
+exec ingresar_tutoria '2021-12-29','14:00:00',2,'FIC-1',8
+exec ingresar_tutoria '2021-12-29','14:00:00',2,'ETD-1',7
+exec ingresar_tutoria '2021-12-29','8:00:00',2,'MET-1',6
+exec ingresar_tutoria '2021-12-29','10:00:00',2,'ING-1',5
+exec ingresar_tutoria '2021-12-30','14:00:00',2,'REQ-1',4
+exec ingresar_tutoria '2021-12-30','14:00:00',2,'GEO-2',3
+exec ingresar_tutoria '2021-12-30','8:00:00',2,'MTI-1',2
+exec ingresar_tutoria '2021-12-29','8:00:00',2,'MDD-1',1
+exec ingresar_tutoria '2021-12-28','10:00:00',2,'MDD-1',1
+exec ingresar_tutoria '2021-12-24','8:00:00',2,'MDD-1',1
+
+
